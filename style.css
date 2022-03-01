@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(16, 58, 95);
+}
+canvas {
+  display: block;
+}
